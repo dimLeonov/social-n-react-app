@@ -1,0 +1,12 @@
+.mainNavbar {
+    grid-area: main-navbar;
+    background-color: lightsalmon;
+}
+
+div {
+    display: block;
+}
+
+.item {
+    color: blue;
+}
